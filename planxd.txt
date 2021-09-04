@@ -1,0 +1,6 @@
+compute H1-H5 semi by hand (havving, ker & im & cycles for emach ) python?
+i have phi & dn,dn2,dn3 for most - by hand, matrices by wolfram
+? maybe check harmonicity - a lot of work - how to do this easily
+compute lefschetz dn^b, dn2^b on H2,H1 respectively
+
+

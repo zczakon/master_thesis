@@ -1,0 +1,13 @@
+solvmanifolds
+nilmanifolds
+chevalley-eilenberg complex & d
+how they are lie algebras
+contact manifolds
+hodge theorey for symplectic / kahler (cite mathieurs theorem)
+operators (the ones that are already defined)
+defining the star
+base forms
+2 statements of lefschetz theorem
+why they are equivalent 
+result for 7 dim nilmanifolds
+the new paper computations
